@@ -1,0 +1,1 @@
+# eclat-pronostic-bot
